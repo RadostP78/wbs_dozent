@@ -1,0 +1,6 @@
+root - DEBUG - 2023-01-04 10:13:07,394- app.py- Hallo Mohamed
+root - DEBUG - 2023-01-04 10:14:21,599- app.py- Hallo Mohamed
+root - DEBUG - 2023-01-04 10:16:35,050- app.py- Hallo Mohamed
+root - DEBUG - 2023-01-04 10:18:58,515- app.py- Hallo Mohamed
+root - INFO - 2023-01-04 10:18:58,515- car.py- [Logger] car instance is created
+root - INFO - 2023-01-04 10:18:58,515- car.py- [Logger] show_car method is called

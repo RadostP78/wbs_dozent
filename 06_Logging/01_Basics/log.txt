@@ -1,0 +1,4 @@
+X:40 , y:60 --> result : 100X:40 , y:60 --> result : 100
+X:50 , y:60 --> result : 110
+X:60 , y:60 --> result : 120
+X:60 + y:60 = result : 120
